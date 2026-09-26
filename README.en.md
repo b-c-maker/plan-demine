@@ -44,7 +44,7 @@ The flow interrupts you exactly three times: **sign-off** (the anti-drift gate),
 
 ## Related
 
-- [skill-flywheel](https://github.com/Itailang2333/skill-flywheel): sister skill — after the task, it auto-sediments reusable workflows into skills (with a reflection/correction loop). One governs starting; the other governs finishing.
+- [skill-flywheel](https://github.com/b-c-maker/skill-flywheel): sister skill — after the task, it auto-sediments reusable workflows into skills (with a reflection/correction loop). One governs starting; the other governs finishing.
 
 ## Install
 
@@ -54,4 +54,4 @@ The flow interrupts you exactly three times: **sign-off** (the anti-drift gate),
 
 ## License
 
-[MIT](LICENSE) © 2026 Itailang2333
+[MIT](LICENSE) © 2026 b-c-maker

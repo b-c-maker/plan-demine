@@ -44,11 +44,11 @@
 
 ## 相关仓库
 
-- [skill-flywheel](https://github.com/Itailang2333/skill-flywheel)：姊妹技能——任务收尾后自动把可复用流程沉淀成 skill（含反思/纠错闭环）。一本管开工，一本管收尾。
+- [skill-flywheel](https://github.com/b-c-maker/skill-flywheel)：姊妹技能——任务收尾后自动把可复用流程沉淀成 skill（含反思/纠错闭环）。一本管开工，一本管收尾。
 
 ## License
 
-[MIT](LICENSE) © 2026 Itailang2333
+[MIT](LICENSE) © 2026 b-c-maker
 
 ## 安装信息
 
